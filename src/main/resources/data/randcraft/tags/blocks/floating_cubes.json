@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "randcraft:floating_cube_red",
+    "randcraft:floating_cube_blue",
+    "randcraft:floating_cube_yellow",
+    "randcraft:floating_cube_green",
+    "randcraft:floating_cube_white",
+    "randcraft:floating_cube_gray"
+  ]
+}

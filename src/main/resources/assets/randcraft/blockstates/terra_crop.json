@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "randcraft:block/terra_crop0" },
+    "age=1": { "model": "randcraft:block/terra_crop1" },
+    "age=2": { "model": "randcraft:block/terra_crop2" },
+    "age=3": { "model": "randcraft:block/terra_crop3" },
+    "age=4": { "model": "randcraft:block/terra_crop4" },
+    "age=5": { "model": "randcraft:block/terra_crop5" },
+    "age=6": { "model": "randcraft:block/terra_crop6" },
+    "age=7": { "model": "randcraft:block/terra_crop7" }
+  }
+}

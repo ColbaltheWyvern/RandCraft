@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  r",
+    " r ",
+    "r  "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "randcraft:ruby"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:ruby_wire"
+  }
+}

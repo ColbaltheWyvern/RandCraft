@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "randcraft:terrawater_flowing",
+    "randcraft:terrawater_fluid"
+  ]
+}

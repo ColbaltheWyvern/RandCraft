@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "randcraft:block/ruby_pressure_plate" },
+    "powered=true": { "model": "randcraft:block/ruby_pressure_plate_down" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "randcraft:block/copper_block",
+    "top": "randcraft:block/copper_block",
+    "side": "randcraft:block/copper_block"
+  }
+}

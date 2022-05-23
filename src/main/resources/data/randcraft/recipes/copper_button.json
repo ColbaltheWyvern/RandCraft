@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    {"item": "randcraft:copper_ingot"}
+  ],
+  "result":
+  {
+    "item": "randcraft:copper_button"
+  }
+}

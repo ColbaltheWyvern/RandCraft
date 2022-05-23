@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "randcraft:block/copper_slab"
+    },
+    "type=double": {
+      "model": "randcraft:block/copper_block"
+    },
+    "type=top": {
+      "model": "randcraft:block/copper_slab_top"
+    }
+  }
+}

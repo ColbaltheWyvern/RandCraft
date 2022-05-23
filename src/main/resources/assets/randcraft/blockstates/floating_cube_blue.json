@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "facing=default": {"model": "randcraft:block/floating_cube_blue"}
+  }
+}

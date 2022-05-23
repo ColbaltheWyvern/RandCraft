@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "rr ",
+    "sns",
+    " b "
+  ],
+  "key": {
+
+    "r": {
+      "item": "randcraft:ruby"
+    },
+
+    "n": {
+      "item": "minecraft:nether_star"
+    },
+
+    "s": {
+      "item": "minecraft:netherite_ingot"
+    },
+
+    "b": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:ruby_hoe"
+  }
+}

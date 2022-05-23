@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "r r",
+    " g ",
+    "r r"
+  ],
+  "key":
+  {
+    "r": {
+      "item": "randcraft:ruby"
+    },
+    "g": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:ruby_crusted_golden_apple"
+  }
+}

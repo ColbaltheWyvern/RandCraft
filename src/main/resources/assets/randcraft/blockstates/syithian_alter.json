@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "randcraft:block/syithian_alter" },
+    "facing=south": { "model": "randcraft:block/syithian_alter", "y": 180 },
+    "facing=west": { "model": "randcraft:block/syithian_alter", "y": 270 },
+    "facing=east": { "model": "randcraft:block/syithian_alter", "y": 90 }
+  }
+}

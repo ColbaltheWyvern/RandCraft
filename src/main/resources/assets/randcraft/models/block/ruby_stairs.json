@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "randcraft:block/ruby_block",
+    "top": "randcraft:block/ruby_block",
+    "side": "randcraft:block/ruby_block"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "ccc"
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "randcraft:copper_block"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:copper_slab",
+    "count": 6
+  }
+}

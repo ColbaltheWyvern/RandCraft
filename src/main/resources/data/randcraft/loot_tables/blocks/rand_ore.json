@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "randcraft:ruby",
+
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "randcraft:syithian_shard",
+
+          "type": "minecraft:item",
+          "weight": 40,
+          "name": "randcraft:terra_crop",
+
+          "type": "minecraft:item",
+          "weight": 50,
+          "name": "randcraft:copper_ingot"
+        }
+      ]
+    }
+  ]
+}

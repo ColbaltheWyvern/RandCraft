@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "rrr",
+    "rfr",
+    "rrr"
+  ],
+  "key":{
+    "r":{
+      "item": "minecraft:wool"
+    },
+    "f":{
+      "item": "minecraft:feather"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:floating_cube_red"
+  }
+}

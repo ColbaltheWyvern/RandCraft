@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "CcC",
+    "CcC"
+  ],
+  "key":
+  {
+    "C": {
+      "item": "randcraft:copper_block"
+    },
+    "c": {
+      "item": "randcraft:copper"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:copper_fence"
+  }
+}

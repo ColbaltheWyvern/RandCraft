@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "randcraft:block/copper_pressure_plate" },
+    "powered=true": { "model": "randcraft:block/copper_pressure_plate_down" }
+  }
+}

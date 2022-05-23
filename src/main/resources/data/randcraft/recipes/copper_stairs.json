@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "c  ",
+    "cc ",
+    "ccc"
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "randcraft:copper_block"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:copper_stairs",
+    "count": 4
+  }
+}

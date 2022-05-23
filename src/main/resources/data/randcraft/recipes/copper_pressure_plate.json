@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "   ",
+    "cc "
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "randcraft:copper_block"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:copper_pressure_plate"
+  }
+}

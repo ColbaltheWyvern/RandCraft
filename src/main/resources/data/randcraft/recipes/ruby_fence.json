@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "RrR",
+    "RrR"
+  ],
+  "key":
+  {
+    "R": {
+      "item": "randcraft:ruby_block"
+    },
+    "r": {
+      "item": "randcraft:ruby"
+    }
+  },
+  "result":
+  {
+    "item": "randcraft:ruby_fence"
+  }
+}

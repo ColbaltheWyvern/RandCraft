@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    {"item": "randcraft:ruby"}
+  ],
+  "result":
+  {
+    "item": "randcraft:ruby_button"
+  }
+}
